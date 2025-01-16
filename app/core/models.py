@@ -1,2 +1,2 @@
-from django.db import models # type: ignore 
+from django.db import models # noqa
 # Create your models here.
